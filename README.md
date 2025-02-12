@@ -1,4 +1,4 @@
-#CONTENT => AI
+# CONTENT => AI
 
 - AI is simulation of human intelligence in machines. (Can learn, reasoning, problem-solving, understanding natural language, perception etc.).
 
