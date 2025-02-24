@@ -35,11 +35,50 @@ LLMs are built using supervised learning (A => B) to repatedly predict the next 
 
 - Performance of Genrative AI depends on large data set (**BigData**) and train a large neural network based on that BigData. Also for that we need special kind of hardware/ CPU i.e. GPU (Graphics processor units)
 
--  Do not wait for data to be collected for 3-5 year and then you will start AI operation on it, collect Data and give it to AI team, they can give valueable inputs out of that data or can suggest what data points to be collected for more accurate training. Data may be structured OR unstructured but that is not an issue, but avoid messy and misleading data that could be a problem.
+-  Do not wait for data to be collected for 3-5 year and then you will start AI operation on it, collect Data and give it to AI team, they can give valueable inputs out of that data or can suggest what data points to be collected for more accurate training. Data may be structured OR unstructured(photos, audio) but that is not an issue, but avoid messy and misleading data that could be a problem.
 
 **ML =>** Gives computers the ability to learn without being explicitily programmed. (A software)
 **Data science =>** Science of extracting knowledge & insights from data.
 **Deep learning/Neural networks =>**  Subset of ML, THAT IS made up of big mathematical equations to do some task.
+
+
+
+## What makes an AI company?
+
+shopping mall + website != internet company [it must use the true power of internet that internet is capable of]
+
+similarly 
+
+any company + deep learning != AI company [it must use the true power of AI]
+
+### AI Transformation
+1. Execute pilot projects to gain momentum; 2. Build an in-house AI team; 3. Provide broad AI training; 4. Develop an AI strategy; 5. develop internal & external communications 
+
+**What AI can not do => ** It's very hard to predict stock market, or predicting human intenstion by just taking image of gestures. 
+**NOTE :** ML tends to work well when you are trying to learn simple concept as something that you can do in less than a second AND there is lot of data available
+
+**NOTE :** Make sure whatever you are trying to do in/with your compney is fesible. 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
