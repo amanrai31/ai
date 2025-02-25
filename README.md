@@ -69,7 +69,7 @@ any company + deep learning != AI company [it must use the true power of AI]
 2. Train model (Iterate many times until it is good enough)
 3. Deploy model
 
-# Key steps of a data science project
+# Key steps of a data science(DS) project
 
 1. Collect data
 2. Analyze data (Iterate many times to get good insights)
@@ -82,10 +82,7 @@ any company + deep learning != AI company [it must use the true power of AI]
 3. What are the main pain points in your business?
 
 
-
-
-
-
+**NOTE :** ML projects can be in-house or outsourced and DS projects are more commonly in-house.
 
 
 
