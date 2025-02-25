@@ -51,6 +51,7 @@ similarly
 
 any company + deep learning != AI company [it must use the true power of AI]
 
+**NOTE :** As good AI compney => 1. do strategic data acquisition; 2. Invest in unified data warehouses; 3. spot automation opportunities;
 ### AI Transformation
 1. Execute pilot projects to gain momentum; 2. Build an in-house AI team; 3. Provide broad AI training; 4. Develop an AI strategy; 5. develop internal & external communications 
 
@@ -60,14 +61,25 @@ any company + deep learning != AI company [it must use the true power of AI]
 **NOTE :** Make sure whatever you are trying to do in/with your compney is fesible. 
  
 
- 
+--------------------------------------------------------------------------------------------
 
+# Key steps of ML project
 
+1. Collect data
+2. Train model (Iterate many times until it is good enough)
+3. Deploy model
 
+# Key steps of a data science project
 
+1. Collect data
+2. Analyze data (Iterate many times to get good insights)
+3. Suggest actions (for bussiness purpose)
 
-
-
+# How to choose an AI project
+**Requirement =>** AI knowledge and domain knowledge. (We need expert from both, team of AI 
+1. Think about automating task  rather than automatin jobs. (Automate a piece of some big work)
+2. What are main drivers of business value?
+3. What are the main pain points in your business?
 
 
 
