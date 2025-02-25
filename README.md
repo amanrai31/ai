@@ -1,4 +1,4 @@
-# CONTENT => AI
+ # CONTENT => AI
 
 - AI is simulation of human intelligence in machines. (Can learn, reasoning, problem-solving, understanding natural language, perception etc.).
 
@@ -84,10 +84,13 @@ any company + deep learning != AI company [it must use the true power of AI]
 
 **NOTE :** ML projects can be in-house or outsourced and DS projects are more commonly in-house.
 
+**Training data AND Test data =>** *Training data* => Data on which we train a model. *Test data* => Data on which we test the accuracy of a model.  
 
 
-
-
+### Open source frameworks
+**ML Frameworks =>** PyTorch, TensorFlow, Hugging face, PaddlePaddle, Scikit-learn, R
+**Research publications =>** Arxiv
+**Gihub (for OS repos)**
 
 
 
