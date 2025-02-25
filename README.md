@@ -97,4 +97,26 @@ any company + deep learning != AI company [it must use the true power of AI]
 
 ------------------------------------------------------------------------------
 
+ # Case study of complex AI products
+
+ How multiple modules come together to build a much more complex AI product.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
