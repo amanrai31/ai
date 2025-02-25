@@ -92,9 +92,9 @@ any company + deep learning != AI company [it must use the true power of AI]
 **Research publications =>** Arxiv
 **Gihub (for OS repos)**
 
+**CPU VS GPU**, **EDGE computing =>** You do not send data over internet to get computed, you store and process the data at same location to reduce letency and traffic on internet.
 
 
-
-
+------------------------------------------------------------------------------
 
 
