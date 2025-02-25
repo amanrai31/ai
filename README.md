@@ -101,8 +101,11 @@ any company + deep learning != AI company [it must use the true power of AI]
 
  How multiple modules come together to build a much more complex AI product.
 
- 
-
+ ### Smart speakers
+ 1. Trigger/wakeword detaction
+ 2. Speech recognition
+ 3. Intent recognition (tell a joke, set timer, convert units, call etc.)
+ 4. Specialized programs to execute command.
 
 
 
